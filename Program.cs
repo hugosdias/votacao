@@ -1,5 +1,4 @@
-﻿using System.IO;// See https://aka.ms/new-console-template for more information
-
+﻿using System.IO;
 
 Console.Write("Enter file full path: ");
 string path = Console.ReadLine();
